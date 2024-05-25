@@ -26,9 +26,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="git" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="git" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="firebase" width="40" height="40"/> </a>
            
           
 </p>
