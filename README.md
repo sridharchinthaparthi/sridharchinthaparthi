@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Power BI and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://csridhar.rf.gd/?i=1](https://csridhar.rf.gd/?i=1)
-
 - 💬 Ask me about **HTML5, CSS3, Python, Machine Learning, Linux**
 
 - 📫 How to reach me **sridhar.chinthaparthi@gmail.com**
