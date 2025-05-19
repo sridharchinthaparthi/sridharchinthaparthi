@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **sridhar.chinthaparthi@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1I_5trQiMFKd-aYUVhsJimqDyTWuJZMxw/view?usp=sharing
-
+- 📄 Know about my experiences https://drive.google.com/file/d/1xLWTZ9j9-mj4ySCD5qUww7sG-GobPUkS/view?usp=sharing
 - ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
