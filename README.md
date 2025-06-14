@@ -18,7 +18,7 @@
 - [📊 Sentiment Analysis](https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/tree/main/sentiment%20anlysis)  
   *An interactive Tableau dashboard visualizing global COVID-19 statistics and trends.*
 
-- [📈 Sales Analysis with Python](https://github.com/yourusername/project-name)  
+- [📈 Customer segmentation with Python]([https://github.com/yourusername/project-name](https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/tree/main/Customer%20segmentation))  
   *Analyzed sales data to extract actionable insights using Pandas, Matplotlib, and Seaborn.*
 
 - [🧹 Data Cleaning Automation](https://github.com/yourusername/project-name)  
