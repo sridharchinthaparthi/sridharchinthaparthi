@@ -21,9 +21,6 @@
 - [📈 Customer segmentation with Python](https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/tree/main/Customer%20segmentation)
   *Analyzed sales data to extract actionable insights using Pandas, Matplotlib, and Seaborn.*
 
-- [🧹 Data Cleaning Automation](https://github.com/yourusername/project-name)  
-  *Python script to automate the preprocessing of messy datasets.*
-
 ---
 
 ### 🧩 Connect with me
