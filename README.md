@@ -15,7 +15,7 @@
 ---
 
 ### 🧠 Featured Projects
-- [📊 COVID-19 Dashboard](https://github.com/yourusername/project-name)  
+- [📊 Sentiment Analysis](https://github.com/sridharchinthaparthi/TAI-IP-Data-Science/tree/main/sentiment%20anlysis)  
   *An interactive Tableau dashboard visualizing global COVID-19 statistics and trends.*
 
 - [📈 Sales Analysis with Python](https://github.com/yourusername/project-name)  
