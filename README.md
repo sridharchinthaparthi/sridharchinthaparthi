@@ -86,9 +86,9 @@ I'm a data professional specializing in transforming complex datasets into strat
 
 ---
 
-## 🤝 Connect With Me
+<!--## 🤝 Connect With Me
 
-<p align="left">
+ <p align="left"> 
   <a href="https://www.linkedin.com/in/chinthaparthisridhar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -101,8 +101,7 @@ I'm a data professional specializing in transforming complex datasets into strat
   <a href="https://instagram.com/ambivert_sree" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-</p>
-
+  </p> -->
 ---
 
 ## 📊 GitHub Statistics
