@@ -111,7 +111,7 @@ I'm a data professional specializing in transforming complex datasets into strat
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sridharchinthaparthi&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=sridharchinthaparthi&theme=dark)](https://git.io/streak-stat" alt="GitHub Streak" />
 </p>
 
 <p align="center">
