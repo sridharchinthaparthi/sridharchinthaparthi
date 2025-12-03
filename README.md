@@ -1,4 +1,6 @@
 <h1 align="center">👋 Hi, I'm Chinthaparthi Sridhar</h1>
+chinthaparthisridhar.in
+
 <h3 align="center">Data Analyst | Python & Data Science Trainer | Analytics Enthusiast</h3>
 
 <p align="center">
