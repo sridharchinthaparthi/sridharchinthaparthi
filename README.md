@@ -1,5 +1,7 @@
 <h1 align="center">👋 Hi, I'm Chinthaparthi Sridhar</h1>
-<a href="chinthaparthisridhar.in">
+<p align="center">
+  <a href="https://chinthaparthisridhar.in" target="_blank"><b>🌐 chinthaparthisridhar.in</b></a>
+</p>
 
 <h3 align="center">Data Analyst | Python & Data Science Trainer | Analytics Enthusiast</h3>
 
